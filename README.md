@@ -1,4 +1,4 @@
-SMART TRAFFIC MANAGEMENT SYSTEM
+##SMART TRAFFIC MANAGEMENT SYSTEM
 
 A desktop application that detects vehicles in uploaded traffic images and simulates a smart traffic light. The green signal time adjusts based on vehicle count using YOLOv8.
 
