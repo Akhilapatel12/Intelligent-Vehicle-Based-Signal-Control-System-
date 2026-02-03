@@ -1,4 +1,4 @@
-##SMART TRAFFIC MANAGEMENT SYSTEM
+##Intelligent Vehicle-Based Signal Control System
 
 A desktop application that detects vehicles in uploaded traffic images and simulates a smart traffic light. The green signal time adjusts based on vehicle count using YOLOv8.
 
